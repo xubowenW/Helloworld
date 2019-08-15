@@ -1,0 +1,14 @@
+No.     Time           Source                Destination           Protocol Length Info
+    652 12.321687942   127.0.0.1             127.0.0.1             TCP      84     46322 → 6006 [PSH, ACK] Seq=41797 Ack=2379 Win=65536 Len=16 TSval=957706388 TSecr=957700454 [TCP segment of a reassembled PDU]
+
+Frame 652: 84 bytes on wire (672 bits), 84 bytes captured (672 bits) on interface 0
+Linux cooked capture
+Internet Protocol Version 4, Src: 127.0.0.1, Dst: 127.0.0.1
+Transmission Control Protocol, Src Port: 46322, Dst Port: 6006, Seq: 41797, Ack: 2379, Len: 16
+
+0000  00 00 03 04 00 06 00 00 00 00 00 00 00 00 08 00   ................
+0010  45 00 00 44 e0 ef 40 00 40 06 5b c2 7f 00 00 01   E..D..@.@.[.....
+0020  7f 00 00 01 b4 f2 17 76 c1 36 5d 87 7f 3e 67 48   .......v.6]..>gH
+0030  80 18 02 00 fe 38 00 00 01 01 08 0a 39 15 70 94   .....8......9.p.
+0040  39 15 59 66 6a 56 ca ce 0f 86 57 de 05 d6 48 64   9.YfjV....W...Hd
+0050  2a 63 e0 f1                                       *c..

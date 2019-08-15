@@ -1,0 +1,1 @@
+00000002:/t    648 6.381085817    127.0.0.1             127.0.0.1             TCP      376    46322 → 6006 [PSH, ACK] Seq=41489 Ack=2363 Win=65536 Len=308 TSval=957700447 TSecr=957700447 [TCP segment of a reassembled PDU]
